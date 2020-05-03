@@ -1,0 +1,11 @@
+C:\Users\ALIN\source\repos\ClasaElevi\bin\Debug\netcoreapp3.0\ClasaElevi.exe
+C:\Users\ALIN\source\repos\ClasaElevi\obj\Debug\netcoreapp3.0\ClasaElevi.csprojAssemblyReference.cache
+C:\Users\ALIN\source\repos\ClasaElevi\obj\Debug\netcoreapp3.0\ClasaElevi.AssemblyInfoInputs.cache
+C:\Users\ALIN\source\repos\ClasaElevi\obj\Debug\netcoreapp3.0\ClasaElevi.AssemblyInfo.cs
+C:\Users\ALIN\source\repos\ClasaElevi\bin\Debug\netcoreapp3.0\ClasaElevi.deps.json
+C:\Users\ALIN\source\repos\ClasaElevi\bin\Debug\netcoreapp3.0\ClasaElevi.runtimeconfig.json
+C:\Users\ALIN\source\repos\ClasaElevi\bin\Debug\netcoreapp3.0\ClasaElevi.runtimeconfig.dev.json
+C:\Users\ALIN\source\repos\ClasaElevi\bin\Debug\netcoreapp3.0\ClasaElevi.dll
+C:\Users\ALIN\source\repos\ClasaElevi\bin\Debug\netcoreapp3.0\ClasaElevi.pdb
+C:\Users\ALIN\source\repos\ClasaElevi\obj\Debug\netcoreapp3.0\ClasaElevi.dll
+C:\Users\ALIN\source\repos\ClasaElevi\obj\Debug\netcoreapp3.0\ClasaElevi.pdb

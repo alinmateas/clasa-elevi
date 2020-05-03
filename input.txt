@@ -1,0 +1,5 @@
+﻿ana ok 3 5 7 10
+ana cosmin 4 5 7 6 2
+alex cosmin 3 3 2 3
+verde dinamo 4 6 10 6 2
+vin claupetru 5 10 7 6 2 10
